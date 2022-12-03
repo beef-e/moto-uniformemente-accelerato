@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.whiteText {
+	color: white;
+}
+
+form {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-around;
+}
